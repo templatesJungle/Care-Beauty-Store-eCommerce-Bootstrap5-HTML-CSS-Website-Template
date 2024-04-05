@@ -1,65 +1,57 @@
 Get the PRO version here:
 https://templatesjungle.gumroad.com/l/care-beauty-ecommerce-website-template
 
-It is a free Bootstrap HTML CSS template by TemplatesJungle.com
-You can use this template as a starter template and start building as you require.
+Live Demo: https://demo.templatesjungle.com/care/
 
-The code is consistent and can be easily maintained as we have followed a good coding standards. We want everyone to easily understand it and modify it according to their requirement. As the main goal of providing these templates is to give you something to work on before even starting.
+Care is a Bootstrap 5 website template specially designed for Beauty Store Ecommerce Websites. The ultimate e-commerce website template is designed specifically for makeup, skincare, and beauty product stores. You can also use this beautiful website template for other e-commerce niches. It has design elements to beautifully display your store items which include a product slideshow, product grid, product carousel, etc.
+
+With Care, you can create a captivating online store that showcases your beauty products in the best possible light. Our HTML CSS Bootstrap 5 template empowers you to build a visually stunning and responsive website without any coding skills.
+
+You will find out two versions of the Care template. With our free version, you get a beautiful and responsive homepage. 
+
+But if you want the full experience, we recommend going with the full version. You can get access to all 18 pages.
+
+Template Features
+
+Bootstrap 5 Theme
+
+HTML5 Markup
+
+2 Different Home Pages
+
+16 Inner Pages
+
+Easily Customizable
+
+100% Responsive
+
+Cross-Browser Compatibility
+
+Clean, Minimal, and Modern Design
+
+Social Media Integration
+
+Newsletter Subscription
+
+Easy editable
+
+Free Google fonts
+
+Free stock images by Unsplash and Pexels
+
+In addition, Care offers excellent customer support to assist you every step of the way. Our dedicated team is here to ensure a smooth experience while building and growing your Beauty Store with Care. For any queries, you can reach us at support@templatesjungle.com.
+
+Credits & References
+
+Stock Photos:
+unsplash.com, freepik.com, pexels.com, pixabay.com
+
+Fonts:
+ttps://fonts.google.com
+
+Icons:
+iconify.design, flaticon.com, Icomoon, Line Awesome, IonIcons
 
 
-FREE FOR BOTH PERSONAL AND COMMERCIAL USE
-
-This HTML Template is provided by TemplatesJungle.com and is free to use in both personal and commercial projects as long as you don't remove our credit link in the footer.
-
-However, you can remove the credit link by paying for PRO version of the template which also includes additional pages.
-
-
-RIGHTS
-
-You are allowed to use it in your personal projects and commercial projects.
-
-You can modify and sell it to your clients.
-
-
-PROHIBITIONS
-
-You cannot remove the credit link which links back to templatesjungle.com if you downloaded free version.
-
-You are not permitted to resell or redistribute (paid or free) as it is. 
-
-You cannot use it to build premium templates, themes or any other goods to be sold on marketplaces.
-
-If you want to share the free resource in your blog, you must point it to original TemplatesJungle.com resource page. 
-
-You cannot host the download file in your website.
-
-
-SUPPORT
-
-You can contact us to report any bugs and errors in the template. We will try and fix them immediately although it's a free resource.
-
-Feel free to let us know about what you want to see in the future downloads. We will definitely give it a thought while creating our next freebie.
-
-
-CREDITS & REFERENCES
-
-https://getbootstrap.com/
-
-Stock Photos
-https://unsplash.com/
-https://www.freepik.com/
-https://www.pexels.com/
-
-Fonts
-Google fonts
-https://fonts.google.com/
-
-Icons
-https://iconify.design/
-
-JQuery Plugins
-Swiper Slider - https://swiperjs.com/
-AOS - https://michalsnik.github.io/aos/
-
-Thanks for downloading from TemplatesJungle.com !
+We have a huge collection of free Bootstrap templates you can freely download and use to create your own website. If you love this freebie, do check out these beautiful free e-commerce templates and free Bootstrap templates as well.
 
